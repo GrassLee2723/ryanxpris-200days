@@ -1,0 +1,167 @@
+RYAN × PRIS — MEDIA FOLDER GUIDE (V5)
+
+Put your own photos into the folders below. Rename each photo to the exact filename.
+JPG is recommended. Keep filenames lowercase and do not use spaces.
+
+IMPORTANT: V5 keeps the V3/V4 visual ideas and only makes the requested slot changes.
+Missing photos can remain absent; the website will not show blank boxes once media is loaded.
+Do not add extra photos beyond the filenames listed here.
+
+Chapter 01 — Before We Were Us
+  images/chapter-01/
+    □ first-meeting.jpg
+    □ pris-leading.jpg
+    □ candid-pris.jpg
+
+Chapter 02 — Mars
+  images/chapter-02/
+    □ mars-lrt.jpg
+
+Chapter 03 — Maybe This Was A Date
+  images/chapter-03/
+    □ hiking.jpg
+    □ zen-and-co.jpg
+    □ pet-cafe.jpg
+    □ cake.jpg
+    □ korean-dinner.jpg
+
+Chapter 04 — Almost Us
+  images/chapter-04/
+    □ putrajaya.jpg
+
+Chapter 05 — Now We’re Really Us
+  images/chapter-05/
+    □ flowers.jpg
+    □ couple-with-flowers.jpg
+
+Chapter 06 — Becoming Real Couple
+  images/chapter-06/
+    □ titiwangsa.jpg
+    □ running.jpg
+    □ movies.jpg
+    □ cooking.jpg
+    □ driving.jpg
+
+Chapter 07 — Genting
+  images/chapter-07/
+    □ genting.jpg
+    □ steak.jpg
+    □ safe.jpg
+    □ first-hand-hold.jpg
+
+Chapter 08 — Little Things
+  images/chapter-08/
+    □ klang.jpg
+    □ hiking.jpg
+    □ golf.jpg
+    □ cooking.jpg
+    □ sleeping.jpg
+    □ matcha.jpg
+
+Chapter 09 — Zoo
+  images/chapter-09/
+    □ zoo-01.jpg
+    □ zoo-02.jpg
+    □ zoo-03.jpg
+    □ zoo-04.jpg
+    □ zoo-05.jpg
+    □ zoo-06.jpg
+    □ bird-poop.jpg
+    □ gorilla.jpg
+
+Chapter 10 — Build Together
+  images/chapter-10/
+    □ building-together.jpg
+    □ third-place.jpg
+
+Chapter 12 — Learning Love
+  images/chapter-12/
+    □ banana-cake.jpg
+
+Chapter 13 — 520 Redemption
+  images/chapter-13/
+    □ 520-couple.jpg
+
+Chapter 14 — Day 100
+  images/chapter-14/
+    □ ring.jpg
+
+Chapter 15 — More Us
+  images/chapter-15/
+    □ memory-01.jpg
+    □ memory-02.jpg
+    □ memory-03.jpg
+    □ memory-04.jpg
+    □ memory-05.jpg
+    □ memory-06.jpg
+    □ memory-07.jpg
+    □ memory-08.jpg
+
+Chapter 17 — Gifts
+  images/chapter-17/
+    □ your-gifts-01.jpg
+    □ your-gifts-02.jpg
+    □ your-gifts-03.jpg
+    □ your-gifts-04.jpg
+    □ your-gifts-05.jpg
+    □ my-gifts-01.jpg
+    □ my-gifts-02.jpg
+    □ my-gifts-03.jpg
+    □ my-gifts-04.jpg
+    □ my-gifts-05.jpg
+
+Chapter 18 — Johor
+  images/chapter-18/
+    □ johor-01.jpg
+    □ johor-02.jpg
+
+Chapter 19 — Distance
+  images/chapter-19/
+    □ qiao-ke.jpg
+
+Chapter 20 — 200 Days
+  images/chapter-20/
+    □ 200-days-01.jpg
+    □ 200-days-02.jpg
+    □ 200-days-03.jpg
+    □ 200-days-04.jpg
+    □ 200-days-05.jpg
+    □ 200-days-06.jpg
+    □ 200-days-07.jpg
+    □ 200-days-08.jpg
+    □ 200-days-09.jpg
+    □ 200-days-10.jpg
+    □ 200-days-11.jpg
+    □ 200-days-12.jpg
+
+Chapter 21 — What Comes Next
+  images/chapter-21/
+    □ what-comes-next.jpg
+
+Final hero
+  images/final.jpg
+
+Media notes:
+• Chapter 03: hiking, Zen & Co, pet café, cake, Korean dinner.
+• Chapter 06: Titiwangsa, running, movies, cooking, driving.
+• Chapter 08: Klang, hiking, golf, cooking, sleeping-in-car, plus one Matcha Effect photo.
+• Chapter 09: six zoo photos + one dedicated bird-poop photo + one gorilla photo. The gorilla scene is now a photo, not a video.
+• Chapter 10: one building-together photo + the existing third-place/award photo.
+• Chapter 17: five photos for her gifts + five photos for your gifts.
+• Chapter 18: two Johor photos only.
+• Chapter 20: 12-photo 200-day recap.
+• Chapter 21: one photo for What Comes Next.
+
+V5 layout behaviour:
+• Chapter 03: five-photo montage — hiking, Zen & Co, pet café, cake, Korean dinner.
+• Chapter 06: five-photo montage — Titiwangsa, running, movies, cooking, driving.
+• Chapter 08: five-photo Klang montage remains unchanged, while Matcha Effect has its own single photo.
+• Chapter 09: six-photo zoo montage, one bird-poop photo, and one gorilla photo.
+• Chapter 10: one-photo build scene plus the existing third-place hero photo.
+• Chapter 17: five-photo montage for her gifts + five-photo montage for your gifts.
+• Chapter 18: two-photo Johor montage.
+• Chapter 21: one-photo What Comes Next frame.
+• Chapter 07.05 First Kiss has NO photo slot.
+• Chapter 05.02 Officially Us has only flowers.jpg and couple-with-flowers.jpg.
+• The airport sentence in Chapter 19 has been removed.
+• “The First Few Weeks” is now “The First Week.”

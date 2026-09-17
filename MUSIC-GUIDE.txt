@@ -1,0 +1,28 @@
+MUSIC INTEGRATION — V6
+=======================
+
+The website uses four instrumental/piano music acts. Music starts after the user taps BEGIN OUR STORY, then continues automatically as the story is scrolled. Each act loops until the story reaches the next act. The transition is crossfaded.
+
+Act 1 — 童话
+  File: /audio/01-tong-hua.mp3
+  Chapters: 01
+  Role: Opening / first meeting / beginning
+
+Act 2 — 慢慢
+  File: /audio/02-man-man.mp3
+  Chapters: 02–06
+  Role: Mars Arc through the chapter immediately before Genting
+
+Act 3 — Love Story
+  File: /audio/03-love-story.mp3
+  Chapters: 07–17
+  Role: Genting through the chapter immediately before the final trip to New Zealand
+
+Act 4 — A Thousand Years
+  File: /audio/04-a-thousand-years.mp3
+  Chapters: 18–21 + final
+  Role: final trip to New Zealand through the ending
+
+Music target volume is 30% so the soundtrack remains underneath the written story.
+
+The MP3 files are not bundled. Place your four chosen piano-version MP3 files in /audio/ using the exact filenames above.
